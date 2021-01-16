@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
     <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
-</p>
+</p>-->
 
 ```ruby
 class Me
@@ -70,7 +70,7 @@ Me.whoami
 
 ---
 
-<h4 align="center">Languages & Tools :computer: </h4>
+<!--<h4 align="center">Languages & Tools :computer: </h4>
 <p align="center">
 <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/ruby/ruby-original.svg" width="25px" height="25px"/>
@@ -81,7 +81,7 @@ Me.whoami
 <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
-</p>
+</p>-->
 
 <h4 align="center">Profiles :sunglasses:</h4>
 <p align="center">
@@ -89,9 +89,9 @@ Me.whoami
     <img alt="Gentil Pinto GitHub followers" src="https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white&link=https://gentilpinto.github.io/my-page/">
   </a>
   
-  <a href="https://www.facebook.com/gentil.pinto2">
+  <!--<a href="https://www.facebook.com/gentil.pinto2">
     <img alt="Gentil Pinto GitHub followers" src="https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white&link=https://www.facebook.com/gentil.pinto2">
-  </a>
+  </a>-->
   
   <a href="https://twitter.com/gentil__pinto">
     <img alt="Gentil Pinto GitHub followers" src="https://img.shields.io/badge/-twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/GentilDev">
