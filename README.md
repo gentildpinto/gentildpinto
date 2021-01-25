@@ -105,9 +105,9 @@ Me.whoami
     <img alt="Gentil Pinto GitHub followers" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:gentil.pinto.dev@gmail.com">
   </a>
   
-  <a href="https://www.codewars.com/users/GentilPinto/badges/micro">
+  <!--<a href="https://www.codewars.com/users/GentilPinto/badges/micro">
     <img alt="Gentil Pinto Codewars" src="https://www.codewars.com/users/GentilPinto/badges/micro">
-  </a>
+  </a>-->
 </p>
 
 - Thanks for visiting. :heart: and Follow me !! :smile:
