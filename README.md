@@ -1,12 +1,12 @@
 <!--<p align="center">
     <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+    WEB = 'https://gentilpinto.github.io/my-page/'
 </p>-->
 
 ```ruby
 class Me
     USERNAME = 'GentilPinto'
     NAME = 'Gentil Pinto'
-    WEB = 'https://gentilpinto.github.io/my-page/'
     TWITTER = '@gentil__pinto'
     LINKEDIN = '/in/gentilpinto'
     CODE = {
@@ -110,9 +110,8 @@ Me.whoami
   </a>-->
 </p>
 
-- Thanks for visiting. :heart: and Follow me !! :smile:
-
 <!--
+- Thanks for visiting. :heart: and Follow me !! :smile:
 **GentilPinto/GentilPinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
