@@ -5,8 +5,8 @@
 
 ```ruby
 class Me
-    USERNAME = 'GentilPinto'
-    NAME = 'Gentil Pinto'
+    USERNAME = 'gentildpinto'
+    NAME = 'Gentil D. Pinto'
     TWITTER = '@gentil__pinto'
     LINKEDIN = '/in/gentilpinto'
     CODE = {
@@ -19,7 +19,7 @@ class Me
     }
     
     def self.whoami
-        puts USERNAME
+        puts NAME
     end
     
     def self.getDailyKnowledge
@@ -41,9 +41,7 @@ end
 
 Me.whoami
 
-# GentilPinto
-
-
+# Gentil D. Pinto
 ```
 
 <p align="center"> 
