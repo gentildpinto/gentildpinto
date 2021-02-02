@@ -46,14 +46,14 @@ Me.whoami
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/gentilpinto/count.svg" />
+  <img src="https://profile-counter.glitch.me/gentildpinto/count.svg" />
 </p>
 
 <h2 align="center">Some stats 💻</h2>
 <!-- status codes -->
 <a align="center" href="https://arshiamidos.github.io">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=GentilPinto&show_icons=true&theme=dracula" alt="my_github_stats" height="170" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GentilPinto&layout=compact&theme=dracula" alt="languages" height="170">
+    <img src="https://github-readme-stats.vercel.app/api?username=gentildpinto&show_icons=true&theme=dracula" alt="my_github_stats" height="170" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentildpinto&layout=compact&theme=dracula" alt="languages" height="170">
     </p>
 </a>
 
@@ -61,7 +61,7 @@ Me.whoami
 <p align="center">
 <a href="https://arshiamidos.github.io">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=GentilPinto&column=7&theme=dracula" />
+        <img src="https://github-profile-trophy.vercel.app/?username=gentildpinto&column=7&theme=dracula" />
     </p>
 </a>
 </p>
