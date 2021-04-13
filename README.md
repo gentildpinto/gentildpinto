@@ -59,15 +59,6 @@ Me.whoami
     </p>
 </a>
 
-<!-- thropy -->
-<p align="center">
-<a href="https://arshiamidos.github.io">
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=gentildpinto&column=7&theme=dracula" />
-    </p>
-</a>
-</p>
-
 ---
 
 <!--<h4 align="center">Languages & Tools :computer: </h4>
