@@ -46,10 +46,6 @@ Me.whoami
 # Gentil D. Pinto
 ```
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/gentildpinto/count.svg" />
-</p>
 
 <h2 align="center">Some stats 💻</h2>
 <!-- status codes -->
