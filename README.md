@@ -1,114 +1,106 @@
-<!--<p align="center">
-    <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
-    WEB = 'https://gentilpinto.github.io/my-page/'
-</p>-->
+<h3 align="center">
+        <samp>
+            &gt; Hi There! I'm <b>Gentil Pinto</b>
+        </samp>
+</h3>
+<br>
 
-```ruby
-# frozen_string_literal: true
+<p align="center">
+        <samp>
+                「 A Software Developer (Backend), lover of Web Development and Open Source from <b>Angola :angola:</b> 」<br/>
+            「 I'm currently working as a Backend Developer with @golang at <a href="https://nellcorp.com/">Nellcorp</a> 」
+                <br>
+                <br>
+        </samp>
+</p>
 
-class Me
-  USERNAME = 'gentildpinto'
-  NAME = 'Gentil D. Pinto'
-  TWITTER = '@gentil__pinto'
-  LINKEDIN = '/in/gentilpinto'
-  CODE = {
-    frontend: ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'Angular'],
-    backend: ['Ruby on Rails', 'PHP', 'Laravel', 'NodeJS'],
-    architecture: ['SPA', 'MVC', 'REST'],
-    database: ['PostgreSQL', 'MySQL', 'SQLite3'],
-    tools: ['VSCode', 'git', 'GitHub', 'heroku', 'postman'],
-    so: ['Linux']
-  }
-    
-  def self.whoami
-    puts NAME
-  end
-    
-  def self.getDailyKnowledge
-    puts [
-      :Ruby,
-      :RubyOnRails,
-      :Javascript,
-      :TypeScript,
-      :CSS,
-      :Angular,
-      :TDD
-    ]
-  end
+<h4 align="center">📫 How to reach me:</h4>
 
-  def self.getFutureGoal
-    puts 'To contribute to open source.'
-  end
-end
+<p align="center">
+    <a href="https://twitter.com/gentil__pinto" target="_blank">
+        <img alt="twitter" src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%" />
+    </a>
+    <a href="https://www.linkedin.com/in/gentilpinto" target="_blank">
+        <img alt="linkedin" src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" />
+    </a>
+    <a href="https://www.reddit.com/u/gentil__pinto" target="_blank">
+        <img alt="gmail" src="https://img.icons8.com/color/48/000000/reddit.png" width="3.5%" />
+    </a>
+    <a href="mailto:gentil.pinto.dev@gmail.com">
+        <img alt="gmail" src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%" />
+    </a>
+</p>
 
-Me.whoami
+<h4 align="center">🛠️ Languages and Tools that I work with:</h4>
 
-# Gentil D. Pinto
-```
-
+<p align="center">
+    <a href="https://angular.io" target="_blank">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+    </a> 
+    <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+    <a href="https://github.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+    </a>
+    <a href="https://heroku.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+    <a href="https://www.php.net" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    </a>
+    <a href="https://www.postgresql.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    </a>
+    <a href="https://postman.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    </a>
+    <a href="https://rubyonrails.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
+    </a>
+    <a href="https://redis.io" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+    </a>
+    <a href="https://www.ruby-lang.org/en/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+    </a>
+    <a href="https://sass-lang.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    </a>
+</p>
 
 <h2 align="center">Some stats 💻</h2>
 <!-- status codes -->
 <a align="center" href="https://arshiamidos.github.io">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gentildpinto&show_icons=true&theme=dracula" alt="my_github_stats" height="170" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentildpinto&layout=compact&theme=dracula" alt="languages" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentildpinto&layout=compact&theme=dracula" alt="languages" height="170">
     </p>
 </a>
 
----
-
-<!--<h4 align="center">Languages & Tools :computer: </h4>
-<p align="center">
-<img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/ruby/ruby-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
-</p>-->
-
-<h4 align="center">Profiles :sunglasses:</h4>
-<p align="center">
-  <a href="https://gentilpinto.github.io/my-page/">
-    <img alt="Gentil Pinto GitHub followers" src="https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white&link=https://gentilpinto.github.io/my-page/">
-  </a>
-  
-  <!--<a href="https://www.facebook.com/gentil.pinto2">
-    <img alt="Gentil Pinto GitHub followers" src="https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white&link=https://www.facebook.com/gentil.pinto2">
-  </a>-->
-  
-  <a href="https://twitter.com/gentil__pinto">
-    <img alt="Gentil Pinto GitHub followers" src="https://img.shields.io/badge/-twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/GentilDev">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/gentilpinto/">
-    <img alt="Gentil Pinto GitHub followers" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gentilpinto/">
-  </a>
-  
-  <a href="mailto:gentil.pinto.dev@gmail.com">
-    <img alt="Gentil Pinto GitHub followers" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:gentil.pinto.dev@gmail.com">
-  </a>
-  
-  <!--<a href="https://www.codewars.com/users/GentilPinto/badges/micro">
-    <img alt="Gentil Pinto Codewars" src="https://www.codewars.com/users/GentilPinto/badges/micro">
-  </a>-->
-</p>
-
-<!--
-- Thanks for visiting. :heart: and Follow me !! :smile:
-**GentilPinto/GentilPinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
