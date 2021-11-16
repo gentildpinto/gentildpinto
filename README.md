@@ -14,7 +14,7 @@
         </samp>
 </p>
 
-<h4 align="center">📫 How to reach me:</h4>
+<h4 align="center">📫 <b>How to reach me:</b></h4>
 
 <p align="center">
     <a href="https://twitter.com/gentil__pinto" target="_blank">
@@ -31,7 +31,7 @@
     </a>
 </p>
 
-<h4 align="center">🛠️ Languages and Tools that I work with:</h4>
+<h4 align="center">🛠️ <b>Languages and Tools that I work with:</b></h4>
 
 <p align="center">
     <a href="https://angular.io" target="_blank">
@@ -96,11 +96,10 @@
     </a>
 </p>
 
-<h2 align="center">Some stats 💻</h2>
-<!-- status codes -->
+<h4 align="center">💻 <b>Some stats</b></h4>
 <a align="center" href="https://arshiamidos.github.io">
     <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentildpinto&layout=compact&theme=dracula" alt="languages" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentildpinto&layout=compact&theme=dracula" alt="languages" height="150">
     </p>
 </a>
 
