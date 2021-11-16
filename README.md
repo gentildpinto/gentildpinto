@@ -8,7 +8,7 @@
 <p align="center">
         <samp>
                 「 A Software Developer (Backend), lover of Web Development and Open Source from <b>Angola :angola:</b> 」<br/>
-            「 I'm currently working as a Backend Developer with @golang at <a href="https://nellcorp.com/">Nellcorp</a> 」
+            「 Currently working as a Backend Developer with @golang at <a href="https://nellcorp.com/" target="_blank">Nellcorp</a> 」
                 <br>
                 <br>
         </samp>
