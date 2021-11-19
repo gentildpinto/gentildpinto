@@ -121,16 +121,16 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-152-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-162-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-758339%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-758538%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning    223 commits    █████░░░░░░░░░░░░░░░░░░░░   19.51% 
-🌆 Daytime    528 commits    ███████████░░░░░░░░░░░░░░   46.19% 
-🌃 Evening    330 commits    ███████░░░░░░░░░░░░░░░░░░   28.87% 
+🌆 Daytime    527 commits    ███████████░░░░░░░░░░░░░░   46.11% 
+🌃 Evening    331 commits    ███████░░░░░░░░░░░░░░░░░░   28.96% 
 🌙 Night      62 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.42%
 
 ```
@@ -168,5 +168,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2021
+ Last Updated on 19/11/2021
 <!--END_SECTION:waka-->
