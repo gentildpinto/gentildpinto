@@ -1,8 +1,8 @@
-<h3 align="center">
+<h2 align="center">
         <samp>
-            &gt; Hi There! I'm <b>Gentil Pinto</b>
+            Hi There! I'm <b>&#761;Gentil Pinto&#764;</b>
         </samp>
-</h3>
+</h2>
 <br>
 
 <p align="center">
@@ -14,7 +14,7 @@
         </samp>
 </p>
 
-<h4 align="center">📫 <b>How to reach me:</b></h4>
+<h3 align="center">📫 <b>How to reach me:</b></h3>
 
 <p align="center">
     <a href="https://twitter.com/gentil__pinto" target="_blank">
@@ -31,7 +31,7 @@
     </a>
 </p>
 
-<h4 align="center">🛠️ <b>Languages and Tools that I work with:</b></h4>
+<h3 align="center">🛠️ <b>Languages and Tools that I work with:</b></h3>
 
 <p align="center">
     <a href="https://angular.io" target="_blank">
@@ -113,7 +113,7 @@
     </a>
 </p>
 
-<h4 align="center">💻 <b>Some stats</b></h4>
+<h3 align="center">:bar_chart: <b>Graphics</b></h3>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-165-blue)
