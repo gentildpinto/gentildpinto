@@ -114,11 +114,6 @@
 </p>
 
 <h4 align="center">💻 <b>Some stats</b></h4>
-<a align="center" href="https://arshiamidos.github.io">
-    <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentildpinto&layout=compact&theme=dracula" alt="languages" height="150">
-    </p>
-</a>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-165-blue)
