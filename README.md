@@ -117,7 +117,7 @@
 <h3 align="center">:bar_chart: <b>Graphics</b></h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-718%20Thousand%20lines%20of%20code-blue)
 
@@ -163,5 +163,5 @@ TypeScript               4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/05/2022 01:58:44 UTC
+ Last Updated on 10/05/2022 01:30:48 UTC
 <!--END_SECTION:waka-->
