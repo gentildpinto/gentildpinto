@@ -117,9 +117,39 @@
 <h3 align="center">:bar_chart: <b>Graphics</b></h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-709%20hrs%2050%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-762%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-763%20Thousand%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    210 commits    █████░░░░░░░░░░░░░░░░░░░░   23.28% 
+🌆 Daytime    479 commits    █████████████░░░░░░░░░░░░   53.1% 
+🌃 Evening    193 commits    █████░░░░░░░░░░░░░░░░░░░░   21.4% 
+🌙 Night      20 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Kotlin                   11 hrs 27 mins      █████████████░░░░░░░░░░░░   51.89% 
+XML                      9 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   41.9% 
+YAML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82% 
+Java                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09% 
+Groovy                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79%
+
+🔥 Editors: 
+Android Studio           21 hrs 12 mins      ████████████████████████░   96.0% 
+VS Code                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
+
+💻 Operating System: 
+Linux                    22 hrs 5 mins       █████████████████████████   100.0%
+
+```
 
 **I Mostly Code in Go** 
 
@@ -134,5 +164,5 @@ Kotlin                   5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2023 01:28:08 UTC
+ Last Updated on 04/01/2023 01:30:14 UTC
 <!--END_SECTION:waka-->
