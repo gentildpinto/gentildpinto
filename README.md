@@ -8,8 +8,8 @@
 <p align="center">
         <samp>
                 「 A Software Developer (Backend), lover of Web Development and Open Source from <b>Angola :angola:</b> 」<br/>
-            「 Currently working as a Backend Developer at <a href="https://nellcorp.com/" target="_blank">Nellcorp</a> 」<br/>
-                「 Previous at <a href="https://www.usekamba.com/" target="_blank">Kamba</a> 」
+            「 Currently working as a Software Developer at <a href="https://itgest.ao/" target="_blank">ITGest</a> 」<br/>
+                「 Previous at: <a href="https://www.usekamba.com/" target="_blank">Kamba</a> and <a href="https://nellcorp.com/" target="_blank">Nellcorp</a>」
                 <br>
                 <br>
         </samp>
