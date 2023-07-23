@@ -117,7 +117,7 @@
 <h3 align="center">:bar_chart: <b>Graphics</b></h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%2049%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
@@ -135,13 +135,17 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSHTML                   1 min               █████████░░░░░░░░░░░░░░░░   37.39 % 
+C#                       1 min               █████████░░░░░░░░░░░░░░░░   36.48 % 
+Other                    0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+XML                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -157,5 +161,5 @@ YAML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2023 01:23:45 UTC
+ Last Updated on 23/07/2023 01:31:21 UTC
 <!--END_SECTION:waka-->
