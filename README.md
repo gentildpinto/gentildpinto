@@ -135,15 +135,13 @@
 
 ```text
 💬 Programming Languages: 
-Blade Template           51 mins             ███████████████████░░░░░░   74.03 % 
-PHP                      17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -159,5 +157,5 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2023 01:08:34 UTC
+ Last Updated on 03/10/2023 01:08:45 UTC
 <!--END_SECTION:waka-->
