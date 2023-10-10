@@ -117,7 +117,7 @@
 <h3 align="center">:bar_chart: <b>Graphics</b></h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C095%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C095%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36%20lines%20of%20code-blue)
 
@@ -135,13 +135,13 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+reStructuredText         1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -157,5 +157,5 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2023 01:08:06 UTC
+ Last Updated on 10/10/2023 01:07:31 UTC
 <!--END_SECTION:waka-->
